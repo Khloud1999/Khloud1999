@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Kholoud khaled
+### Hi 👋  I'm Kholoud khaled
 
 ![image](https://user-images.githubusercontent.com/72269263/218199801-a0d08240-e48e-4fe9-926b-bf04948a45c9.png)
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ### About me :
 - 🌱 I’m currently learning Embedded Systems in ITI New Adminstrative Capital Branch
-- 📫 How to reach me: https://www.linkedin.com/in/kholoud-khaled-a00621209/
+- 📫 How to reach me: https://www.linkedin.com/in/kholoud-khaled-a00621209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYM5BemEXQ2qGh5HRjcL%2BUQ%3D%3D
 
 ### Programming Languages :
 - C 
