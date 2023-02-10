@@ -1,8 +1,7 @@
 ### Hi 👋 , I'm Kholoud khaled
 
 
-![image](https://user-images.githubusercontent.com/72269263/218204208-eb483dad-efd4-4627-b466-c8f5ce818523.png)
-
+![photo_2023-02-10_23-44-24](https://user-images.githubusercontent.com/72269263/218204753-2d4f5bc5-f02c-4bdc-8df1-8fb604e0dfa9.jpg)
 
 
 
